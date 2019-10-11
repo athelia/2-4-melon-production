@@ -33,6 +33,7 @@ class Melon(object):
 
 # FIXME: Add Squash class definition here.
 class Squash(Melon):
+    """Yellow winter squash."""
 
     def prep(self):
         """Prepare the squash."""
